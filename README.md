@@ -1,0 +1,2 @@
+# CCSIDS
+Extract CCSIDs' definitions
